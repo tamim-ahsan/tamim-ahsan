@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with improving my skills in spatial multi-omics data integration
 - 💬 Ask me about extracting biological insights from massive multi-omics datasets
 - 📫 How to reach me: please find all my contact info on my website (https://tamim-ahsan.github.io/) 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sometimes I wish I were a filmmaker
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: sometimes I wish I were a filmmaker
